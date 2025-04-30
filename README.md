@@ -1,7 +1,7 @@
 # Car Model Price Analysis: Nissan Rogue SV
 
 ## Overview
-This project is part of the AD688 Web Analytics course at Boston University. It focuses on analyzing the price of the **Nissan Rogue SV** in two cities: **Boston** and **San Jose**. The analysis explores the relationship between car prices, age, mileage, and depreciation rates, and recommends the price for a 3-year-old model in both cities.
+This analysis focuses on the pricing of the **Nissan Rogue SV** in two cities: **Boston** and **San Jose**. The study examines how car prices relate to age, mileage, and depreciation, while also estimating the price of a 3-year-old model in each city.
 
 ## Objective
 The goal of this project was to:
@@ -46,16 +46,16 @@ The goal of this project was to:
 Here are some key visualizations generated during the analysis:
 
 1. **Scatter Plot of Age vs. Price (Boston)**  
-   ![Age vs Price Boston](images/figure3.png)
+   ![Age vs Price Boston](images/Figure3.png)
 
 2. **Scatter Plot of Age vs. Price (San Jose)**  
-   ![Age vs Price San Jose](images/figure4.png)
+   ![Age vs Price San Jose](images/Figure4.png)
 
 3. **Line Plot of Mileage vs. Price (Boston)**  
-   ![Mileage vs Price Boston](images/figure5.png)
+   ![Mileage vs Price Boston](images/Figure5.png)
 
 4. **Line Plot of Mileage vs. Price (San Jose)**  
-   ![Mileage vs Price San Jose](images/figure6.png)
+   ![Mileage vs Price San Jose](images/Figure6.png)
 
 ## Conclusion
 

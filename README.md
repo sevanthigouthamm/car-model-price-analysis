@@ -46,7 +46,7 @@ The goal of this project was to:
 Here are some key visualizations generated during the analysis:
 
 1. **Scatter Plot of Age vs. Price (Boston)**  
-   ![Age vs Price Boston](path_to_image_figure3.png)
+   ![Age vs Price Boston](images/prediction_for_row157.png)
 
 2. **Scatter Plot of Age vs. Price (San Jose)**  
    ![Age vs Price San Jose](path_to_image_figure4.png)

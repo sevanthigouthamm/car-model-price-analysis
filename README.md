@@ -46,16 +46,16 @@ The goal of this project was to:
 Here are some key visualizations generated during the analysis:
 
 1. **Scatter Plot of Age vs. Price (Boston)**  
-   ![Age vs Price Boston](images/prediction_for_row157.png)
+   ![Age vs Price Boston](images/figure3.png)
 
 2. **Scatter Plot of Age vs. Price (San Jose)**  
-   ![Age vs Price San Jose](path_to_image_figure4.png)
+   ![Age vs Price San Jose](images/figure4.png)
 
 3. **Line Plot of Mileage vs. Price (Boston)**  
-   ![Mileage vs Price Boston](path_to_image_figure5.png)
+   ![Mileage vs Price Boston](images/figure5.png)
 
 4. **Line Plot of Mileage vs. Price (San Jose)**  
-   ![Mileage vs Price San Jose](path_to_image_figure6.png)
+   ![Mileage vs Price San Jose](images/figure6.png)
 
 ## Conclusion
 
